@@ -27,3 +27,5 @@ I'm a second-year Computer Science student with a strong interest in Artificial 
 <a href="http://www.github.com/SAMI-CODEAI"><img src="https://github-readme-stats.vercel.app/api?username=SAMI-CODEAI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SAMI-CODEAI's GitHub stats" /></a>
 
 <a href="http://www.github.com/SAMI-CODEAI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMI-CODEAI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/sami_codeai)

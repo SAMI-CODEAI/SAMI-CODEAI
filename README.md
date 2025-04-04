@@ -1,6 +1,11 @@
 # Hi there, I'm Samiksha! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a second-year Computer Science student with a strong interest in Artificial Intelligence and Machine Learning. Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications. 🔭 I'm actively learning and experimenting with various machine learning models, from supervised learning to deep learning, and I’m excited to share my projects with the community. I enjoy solving problems and building solutions through code, always aiming to improve my skills. 💼 Open to collaboration and eager to contribute to open-source ML projects while continuing to learn and grow in the field of AI. Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about ML!
+I'm a second-year Artificial Intelligence and Machine Learning student.
+Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications. 
+🔭 I'm actively learning and experimenting with various machine learning models, from supervised learning to deep learning, and I’m excited to share my projects with the community. 
+I enjoy solving problems and building solutions through code, always aiming to improve my skills. 
+💼 Open to collaboration and eager to contribute to open-source ML projects while continuing to learn and grow in the field of AI. 
+Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about ML!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sami-codeai-098303298/)

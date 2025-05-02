@@ -7,7 +7,6 @@ I enjoy solving problems and building solutions through code, always aiming to i
 💼 Open to collaboration and eager to contribute to open-source ML projects while continuing to learn and grow in the field of AI. 
 Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about ML!
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sami-codeai-098303298/)
 * ✉️  You can contact me at [sami.codeai@gmail.com](mailto:sami.codeai@gmail.com)
 * 🧠  I'm learning Machine Learning

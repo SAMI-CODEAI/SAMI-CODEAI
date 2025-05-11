@@ -64,7 +64,6 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you'd
 </a>
 </p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Samiksha! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a second-year Artificial Intelligence and Machine Learning student.
+I'm a third-year Artificial Intelligence and Machine Learning student.
 Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications. 
 🔭 I'm actively learning and experimenting with various machine learning models, from supervised learning to deep learning, and I’m excited to share my projects with the community. 
 I enjoy solving problems and building solutions through code, always aiming to improve my skills. 

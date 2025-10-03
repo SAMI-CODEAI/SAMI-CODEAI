@@ -29,13 +29,15 @@ I'm a third-year Artificial Intelligence and Machine Learning student. Currently
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAMI-CODEAI&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=SAMI-CODEAI&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=SAMI-CODEAI&icon=0&color=0)](https://visitcount.itsvg.in)
 

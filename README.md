@@ -1,11 +1,35 @@
-# Hi there, I'm Samiksha! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm a third-year Artificial Intelligence and Machine Learning student. Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications. 🔭 I'm actively learning and experimenting with various machine learning models, from supervised learning to deep learning, and I’m excited to share my projects with the community. I enjoy solving problems and building solutions through code, always aiming to improve my skills. 💼 Open to collaboration and eager to contribute to open-source ML projects while continuing to learn and grow in the field of AI. Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about ML!<br><br>🖥️  See my portfolio at LinkedIn<br>✉️  You can contact me at sami.codeai@gmail.com<br>🧠  I'm learning Machine Learning
+# Hi there, I'm Samiksha!  
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+I'm a third-year **Artificial Intelligence and Machine Learning** student. Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications.  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/codeaiml/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samiksha-sai-thogeti-098303298/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26896533/samiksha-sai-thogeti) 
+🔭 I'm actively learning and experimenting with various machine learning models, from supervised learning to deep learning, and I’m excited to share my projects with the community.  
+💼 Open to collaboration and eager to contribute to open-source ML projects while continuing to learn and grow in the field of AI.  
 
-# 💻 Tech Stack  
+Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about ML!  
+
+<br>
+
+🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/samiksha-sai-thogeti-098303298/)  
+✉️ Contact → **sami.codeai@gmail.com**  
+🧠 Currently Learning → **Machine Learning**
+
+---
+
+## 🌐 Socials
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codeaiml/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-sai-thogeti-098303298/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26896533/samiksha-sai-thogeti) 
+
+</div>
+
+---
+
+## 💻 Tech Stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -28,17 +52,36 @@ I'm a third-year Artificial Intelligence and Machine Learning student. Currently
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-# 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAMI-CODEAI&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>  
+<img src="https://nirzak-streak-stats.vercel.app/?user=SAMI-CODEAI&theme=github_dark&hide_border=false" height="170px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px"/>  
+
+</div>
+
+---
+
 ### 🔝 Top Contributed Repo
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=SAMI-CODEAI&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=SAMI-CODEAI&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="200px"/>
+
 </div>
+
 ---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=SAMI-CODEAI&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

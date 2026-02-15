@@ -12,7 +12,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you'd
 
 🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/samiksha-sai-thogeti-098303298/)  
 ✉️ Contact → **sami.codeai@gmail.com**  
-🧠 Currently Learning → **Machine Learning**
+🧠 Currently Learning → **Agentic AI**
 
 ---
 

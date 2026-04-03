@@ -59,9 +59,9 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you'd
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=SAMI-CODEAI&theme=github_dark&hide_border=false" height="170px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMI-CODEAI&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px"/>  
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sami-codeai&theme=github_dark&hide_border=false&include_all_commits=true" height="170px"/>   -->
+<img src="https://streak-stats.demolab.com?user=sami-codeai&theme=github-dark&hide_border=false" height="170px"/>  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-codeai&theme=github_dark&hide_border=false&layout=compact" height="170px"/>   -->
 
 </div>
 
@@ -70,7 +70,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you'd
 ### 🔝 Top Contributed Repo
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=SAMI-CODEAI&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="200px"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=sami-codeai&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="200px"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Feel free to explore my repositories, and don’t hesitate to reach out if you'd
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=SAMI-CODEAI&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sami-codeai&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 

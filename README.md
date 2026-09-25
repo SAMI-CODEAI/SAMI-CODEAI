@@ -1,7 +1,8 @@
 # Hi there, I'm Samiksha!  
 <!-- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 <div align="center">
-  <img src="./gif.gif" alt="idk" />
+  <!-- <img src="./gif.gif" alt="idk" /> -->
+   <img src="./hello-world-dots.svg" alt="Hello World" />
 </div>
 
 I'm a final-year **Artificial Intelligence and Machine Learning** student. Currently, I'm focusing on deepening my understanding of ML algorithms, techniques, and practical applications.  
